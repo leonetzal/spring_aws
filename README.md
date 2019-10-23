@@ -12,6 +12,8 @@
 
 Listado de todos los artículos (GET) https://4r5ex7lrsl.execute-api.us-east-1.amazonaws.com/dev/proxy?id=all
 
+Listado artículo por id (GET) https://4r5ex7lrsl.execute-api.us-east-1.amazonaws.com/dev/proxy?id={id}
+
 Insertar nuevos artículos (POST) https://90lvirey3f.execute-api.us-east-1.amazonaws.com/dev/inventory
 
 Ex.   {
